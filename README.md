@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Microservices and distributed system architecture**
 
-- 💬 Ask me about **Java, Clean Code**
+- 💬 Ask me about **Java, Clean Code, test**
 
 - 📫 How to reach me **galvao.carolina@hotmail.com**
 
