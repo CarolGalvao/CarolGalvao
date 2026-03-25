@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carolina Galvão</h1>
 <h3 align="center">I am a woman passionate about learning and developing.</h3>
 
-- 🔭 I’m currently working on [PagSeguro](https://pagseguro.uol.com.br/#rmcl)
+- 🔭 I’m currently working on Nubank
 
 - 🌱 I’m currently learning **Microservices and distributed system architecture**
 
