@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carolina Galvão</h1>
-<h3 align="center">Senior Software Engineer | Backend & Data Engineering</h3>
+<h3 align="center"> Software Engineer | Backend & Data Engineering</h3>
 
 ---
 
